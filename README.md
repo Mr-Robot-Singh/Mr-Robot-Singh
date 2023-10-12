@@ -2,4 +2,4 @@
 - 👀 I’m interested in Embedded Systems, Robots, IoT, Automation, 3D designing
 - 🌱 I’m currently learning all the fields related to robotics 😉
 - 💞️ I’m looking to collaborate on any robotics and automation related projeccts
-- 📫 Feel free to contact me -> vishal.singh@vibraniumRobotics.com
+- 📫 Feel free to contact me -> vishal.singh@vibraniumrobotics.com
